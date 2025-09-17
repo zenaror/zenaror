@@ -16,4 +16,4 @@ Besides my professional background, I use GitHub to share **personal and experim
 ## 🌱 Always learning
 I'm constantly exploring new technologies in **Data Engineering, Cloud Computing, and BI**, while also experimenting with **retro hardware projects** for fun.
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/rafaelzenaro)
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/rafael-zenaro)
